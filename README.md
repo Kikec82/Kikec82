@@ -17,7 +17,7 @@ Skills:
     
 Proyectos realizados:
     -Tuterraza.com        https://github.com/Kikec82/Proyecto-Final-Terrazas    Proyecto Fin de curso. 
-    -New-Normality        https://github.com/Kikec82/new-normality              Realizado conjuntamente con Laliiosorio (Laura Osorio) 2º proyecto hecho en el curso.
+        -New-Normality        https://github.com/Kikec82/new-normality              Realizado conjuntamente con Laliiosorio (Laura Osorio) 2º proyecto hecho en el curso.
     -Guittar Battle Game: https://silviudn.github.io/guitar-battle-game/        Realizado conjuntamente con SilviuDN (Silviu Dilimot) 1er proyecto hecho en el curso
 
 Linkedin: linkedin.com/in/enriquecolomermerediz
