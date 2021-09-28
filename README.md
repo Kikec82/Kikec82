@@ -21,3 +21,4 @@ Proyectos realizados:
     -Guittar Battle Game: https://silviudn.github.io/guitar-battle-game/        Realizado conjuntamente con SilviuDN (Silviu Dilimot) 1er proyecto hecho en el curso
 
 Linkedin: https://www.linkedin.com/in/enriquecolomermerediz
+eMail e.colomerm@yahoo.com
